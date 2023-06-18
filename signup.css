@@ -8,9 +8,20 @@ font-size:20px;
 
 .form1{
 background-color:#660033; 
-width:400px; 
+width:700px; 
 padding:10px; 
 border-radius:20px;
+}
+
+.dropdown{
+width:315px;
+padding:7px;
+color:grey;
+border-radius:5px;
+}
+
+.gender{
+color:white;
 }
 
 .main-heading{
@@ -26,14 +37,6 @@ color:#660033;
 border-radius:5px;
 }
 
-.rememberme{
-color:white;
-}
-
-.forgetpass{
-color:#4d4dff;
-}
-
 .btn{
 background-color:white; 
 font-weight:bold; 
@@ -44,7 +47,7 @@ width:230px;
 border-radius:15px;
 }
 
-.not-member{
+.account{
 color:white;
 }
 
